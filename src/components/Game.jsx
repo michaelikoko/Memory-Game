@@ -155,7 +155,7 @@ export default function Game()
                         timeString: convertTimeFormat(prevTime.seconds)
                 }
                 })
-            }, 1000)
+            }, 800)
         } 
         else 
         {
