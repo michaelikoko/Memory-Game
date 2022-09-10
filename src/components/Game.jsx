@@ -96,7 +96,7 @@ export default function Game()
                         newArray[pos2] = newObjPos2
                         return newArray
                     })
-                }, 800)
+                }, 1000)
                 setClickedPairPos([])
             }
         }
